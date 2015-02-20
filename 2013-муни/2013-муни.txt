@@ -1,0 +1,184 @@
+'''Part 4'''
+
+
+'''Mountain Unicycling'''51'''Table of Contents'''
+
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| '''Mountain Unicycling'''
+| style="border:none;padding:0cm;"| <div align="right">'''53'''</div>
+
+|}
+# Definition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 
+
+# Disciplines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 
+
+# Safety Gear . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 
+
+# Muni Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 
+
+# Starting Modes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54 
+
+# Age Groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54 
+
+4.7 IUF Muni Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+
+# Dismounts and Dismounted Riders . . . . . . . . . . . . . . . . . . . . . . 55 
+
+# Uphill Race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55 
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| <div align="right">4.10</div>
+| style="border:none;padding:0cm;"| Downhill Race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">55</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">4.11</div>
+| style="border:none;padding:0cm;"| Cross Country (XC) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">56</div>
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+
+|}
+'''Mountain Unicycling'''
+
+
+'''4.1 Definition'''
+
+
+For purposes of these rules, mountain unicycling (muni) refers to oﬀ road races over any type of terrain. Races can vary from a single heat race with all riders starting together, to a time trial type of arrangement with riders going individually, at intervals. Mountains are not required. Terrain can be anything from dirt to paved areas, hills, ditches, curbs, rocks, sand, mud, or grass. Unless otherwise noted, there are no restrictions on wheel size, crank arm length, brakes or gearing.
+
+
+'''4.2 Disciplines'''
+
+
+Mountain Unicycling competitons usually involve Uphill (section 4.9), Downhill (section 4.10), and Cross Country (section 4.11), but other events such as North Shore (a technical compotition) and Slopestyle (a trick/style competition) can be included. If the hosts wish to include events other than the first three (Up, DH, XC), they must remember to provide detailed rules for these events at the same time the events are announced.
+
+
+'''4.3 Safety Gear'''
+
+
+For all muni events, riders must wear shoes, kneepads, gloves/wristguards and helmets (see definition in chapter 1d). The IUF allows no exceptions to this for muni events. Additional equipment such as shin, elbow or ankle protection are optional.
+
+
+'''4.4 Muni Courses'''
+
+
+Courses must be clearly marked, so that riders can easily see where to go. Very dangerous sections should be secured (for example by removing sharp stones/branches from areas where riders are likely to fall/run into due to the physics of the course). Unless otherwise noted, non-lane passing rules apply (see section 2.7.1). All courses should strive for a balance of speed, excitement, and safety.
+
+
+For all muni races, every rider must get the chance of at least one test run to get familiar with the track before the actual race. If possible, the track should be open for training during all days of the event prior to the race. For multiday events the muni competitions53TABLE OF CONTENTS
+
+
+should take place during the second half of the event in order to give riders more time to practice on the course.
+
+
+'''4.5 Starting Modes'''
+
+
+The fastest riders should always start first, regardless of the starting mode. The order can be determined by seeding runs. There are three diﬀerent types of starting modes, that can be used in muni races.
+
+
+# 
+## '''Mass starts: '''All riders start at the same time. Mass starts must not be used''' '''when the race duration is expected to be shorter than 30 minutes. The track must provide suﬃcient space for passing in the first section, so that the field of starters is aligned before the track narrows down. Space for passing must be given along the track. Mass starts with more than 40 riders have to be split to avoid accidents. 
+
+# 
+## '''Heat starts: '''Groups of riders start at intervals that can vary from 30 seconds''' '''to a few minutes. The maximum number of riders per heat is determined by the average width of the first 100m of the track. There can be one rider for each meter in width. 
+
+# 
+## '''Individual starts: '''Individual riders start at intervals that can vary from 30''' '''seconds to a few minutes. 
+
+# '''Age Groups '''
+
+Age groups must be oﬀered as male and female age group. There must not be any age group specific restrictions on equipment. The following age groups are the maximum allowable for muni competitions:
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| Under 15
+| style="border:none;padding:0cm;"| Youth
+
+|-
+| style="border:none;padding:0cm;"| 15-16
+| style="border:none;padding:0cm;"| Juniors
+
+|-
+| style="border:none;padding:0cm;"| 17-18
+| style="border:none;padding:0cm;"| Rookies
+
+|-
+| style="border:none;padding:0cm;"| 19-29
+| style="border:none;padding:0cm;"| Elites
+
+|-
+| style="border:none;padding:0cm;"| 30-49
+| style="border:none;padding:0cm;"| Masters
+
+|-
+| style="border:none;padding:0cm;"| 50+
+| style="border:none;padding:0cm;"| Veterans
+
+|}
+'''4.7 IUF Muni Results'''
+
+
+The host must publish two lists of results for each discipline after the competition: Age group based ranking and overall ranking (separating male/female).54TABLE OF CONTENTS
+
+
+'''4.8 Dismounts and Dismounted Riders'''
+
+
+Dismounts are allowed in all muni races unless otherwise noted. In mass-start events, dismounted riders must yield to mounted riders behind them as quickly as possible after a dismount, and until re-mounted. Riders may not impede the progress of mounted riders when trying to mount. If necessary they must move to a diﬀerent location so mounted riders can pass. If riders choose not to ride diﬃcult sections of the course, they must not pass any mounted riders while walking or running through them. In time trial-type events, see below for variations based on the other event details. Violations of these non-riding rules may result in disqualification or a time penalty, to be determined and announced before the race start. Riders must also ride completely across the finish line, as described in section 2.6.
+
+
+'''4.9 Uphill Race'''
+
+
+An Uphill muni race challenges riders’ ability to climb. Courses may be short and steep or longer, endurance-related challenges. Generally it is a timed event, but on an extremely diﬃcult course, riders can be measured as to how far they ride before dismounting. The race can be oﬀered as a no-dismounts challenge, which either measures who gets the farthest, or disqualifies anyone who doesn’t complete the distance without a dismount. Multiple tries can be allowed, or the race can be a simple timed event.
+
+
+'''4.9.1 Dismounted Riders'''
+
+
+If the Uphill race is run as a time trial, riders are intended to ride the entire distance. In the event of a dismount, the rider must remount the unicycle:
+
+
+# At the point where the dismount occurred if the unicycle falls back down the course toward the start. 
+
+# Where the unicycle and/or rider come to a stop after dismounting. Excessive running/walking/stumbling after a dismount may be grounds for a penalty at the discretion of the Referee. 
+
+# Riders may also choose to back up (toward the start line) from one of those spots to remount, if they prefer the terrain there. 
+
+# 
+## '''Downhill Race '''
+
+A Downhill muni race is a test of speed and ability to handle terrain. Courses must be primarily downhill but may include flat or uphill sections. Recommended course length is 2.5 km, or 1 km at a minimum, depending on available terrain, trails and schedule time. For a course length less than 2 km, two separate runs should be held. In this case the ranking of the riders is based on the fastest of the two runs. Riders should race one55TABLE OF CONTENTS
+
+
+at a time, released at regular time intervals. If the schedule has a small time window for the race, riders should be run in heat sizes that allow passing on the course, and do not bottleneck at the beginning.
+
+
+'''4.10.1 Dismounted Riders'''
+
+
+Dismounted riders must not impede the progress of, or pass mounted riders. They must remain aware of riders coming from behind, and not block them with their unicycles or bodies. Running is not allowed, except momentarily to slow down after a dismount. Riders may walk if necessary. Riders may receive a time penalty or be disqualified if they disregard this rule.
+
+
+'''4.11 Cross Country (XC)'''
+
+
+A Cross Country race should be at least 10 km or longer, depending on available terrain, trails and schedule time. If only shorter trails are available, riders can be required to complete two or more laps of the course. It is basically any muni race that is not specifically focused on downhill or uphill. The course can contain any amount of uphill or downhill riding and is to be about fitness, and ability to ride fast on rough terrain.
+
+
+'''4.11.1 Dismounted Riders'''
+
+
+If the event is held as a time trial, dismounted rider restrictions must be announced before the start of the race. Depending on course length and diﬃculty, dismounted riders may be required to walk, or walk only limited distance, or have no restrictions at all.
+
+
+

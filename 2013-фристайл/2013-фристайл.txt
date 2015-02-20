@@ -1,0 +1,1437 @@
+'''Part 5'''
+
+
+'''Freestyle and Standard Skill'''57'''Table of Contents'''
+
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| '''5a Freestyle & Standard Skill Overview'''
+| style="border:none;padding:0cm;"| <div align="right">'''60'''</div>
+
+|-
+| style="border:none;padding:0cm;"| 5.1 The Diﬀerence Between These Events
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . . . . . . 60</div>
+
+|}
+# Age Groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 
+
+# Safety Gear . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 
+
+5.4 Performance Set-Up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+# Interruption Of Judging . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61 
+
+5.6 Music . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+# Announcing Of Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 
+
+# Protests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| 5.9
+| style="border:none;padding:0cm;"| Freestyle Judging Panel . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">63</div>
+
+|-
+| style="border:none;padding:0cm;"| 5.10
+| style="border:none;padding:0cm;"| Scoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">66</div>
+
+|-
+| style="border:none;padding:0cm;"| 5.11
+| style="border:none;padding:0cm;"| World Champions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">67</div>
+
+|-
+| colspan="2"  style="border:none;padding:0cm;"| '''5b Freestyle Rules'''
+| style="border:none;padding:0cm;"| <div align="right">'''68'''</div>
+
+|}
+# Individual Freestyle Overview . . . . . . . . . . . . . . . . . . . . . . . . . 68 
+# Pairs Freestyle Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70 
+
+# Group Freestyle Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . 71 
+
+# Deadline For Signing Up . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73 
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| <div align="right">5.16</div>
+| style="border:none;padding:0cm;"| Size Of Performing Areas . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">73</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.17</div>
+| style="border:none;padding:0cm;"| Order Of Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">73</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.18</div>
+| style="border:none;padding:0cm;"| Start Of Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">73</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.19</div>
+| style="border:none;padding:0cm;"| End Of Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">74</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.20</div>
+| style="border:none;padding:0cm;"| Rider’s No-Signal Option . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">74</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.21</div>
+| style="border:none;padding:0cm;"| Clean-Up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">75</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.22</div>
+| style="border:none;padding:0cm;"| Messy Performing Area . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">75</div>
+
+|-
+| colspan="2"  style="border:none;padding:0cm;"| '''5c Freestyle Judging'''
+| style="border:none;padding:0cm;"| <div align="right">'''76'''</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.23</div>
+| style="border:none;padding:0cm;"| Individual Freestyle - Technical Score . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">76</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.24</div>
+| style="border:none;padding:0cm;"| Individual Freestyle – Presentation Score . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">79</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.25</div>
+| style="border:none;padding:0cm;"| Pairs Freestyle – Additional Judging Criteria . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">82</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.26</div>
+| style="border:none;padding:0cm;"| Group Freestyle – Additional Judging Criteria . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">84</div>
+
+|}
+TABLE OF CONTENTS
+
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| '''5d Standard Skill Rules'''
+| style="border:none;padding:0cm;"| <div align="right">'''88'''</div>
+
+|}
+# Individual Standard Skill Overview . . . . . . . . . . . . . . . . . . . . . . 88 
+# Group Standard Skill Overview . . . . . . . . . . . . . . . . . . . . . . . . 89 
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| <div align="right">5.29</div>
+| style="border:none;padding:0cm;"| Start Of Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">89</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.30</div>
+| style="border:none;padding:0cm;"| End Of Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">90</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.31</div>
+| style="border:none;padding:0cm;"| Rider’s No-Signal Option . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">90</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.32</div>
+| style="border:none;padding:0cm;"| Floor, Markings And Figure Shapes . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">90</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.33</div>
+| style="border:none;padding:0cm;"| Mounts, Transitions, Axis, Single And Counted Short Skills . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">92</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.34</div>
+| style="border:none;padding:0cm;"| Body Form . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">92</div>
+
+|}
+# Dismounts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92 
+
+# Assisting Riders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92 
+
+
+{| style="border-spacing:0;"
+| style="border:none;padding:0cm;"| <div align="right">5.37</div>
+| style="border:none;padding:0cm;"| Standard Skill Judging Sheet . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">93</div>
+
+|-
+| colspan="2"  style="border:none;padding:0cm;"| '''5e Standard Skill Judging'''
+| style="border:none;padding:0cm;"| 
+| style="border:none;padding:0cm;"| <div align="right">'''95'''</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.38</div>
+| style="border:none;padding:0cm;"| Judging Panel . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">95</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.39</div>
+| style="border:none;padding:0cm;"| Operation Of The Judges . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">95</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.40</div>
+| style="border:none;padding:0cm;"| Diﬃculty Devaluations . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">96</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.41</div>
+| style="border:none;padding:0cm;"| Execution Devaluations . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">97</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.42</div>
+| style="border:none;padding:0cm;"| Totaling Scores . . . . . . . . . . . . . . . . .
+| style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . .</div>
+| style="border:none;padding:0cm;"| <div align="right">99</div>
+
+|-
+| colspan="2"  style="border:none;padding:0cm;"| '''5f List of Standard Skills'''
+| style="border:none;padding:0cm;"| 
+| style="border:none;padding:0cm;"| <div align="right">'''100'''</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.43</div>
+| style="border:none;padding:0cm;"| General Remarks About Standard Skill Riding
+| colspan="2"  style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . 100</div>
+
+|-
+| style="border:none;padding:0cm;"| <div align="right">5.44</div>
+| style="border:none;padding:0cm;"| Standard Skill Scores and Descriptions . . . .
+| colspan="2"  style="border:none;padding:0cm;"| <div align="right">. . . . . . . . . . . . . . . . 103</div>
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:none;border-right:none;padding:0cm;"| 
+
+|}
+59'''5a Freestyle & Standard Skill Overview'''
+
+
+'''5.1 The Diﬀerence Between These Events'''
+
+
+In Standard Skill, riders demonstrate pure skill and mastery on a standard unicycle, by performing up to 18 skills they have pre-selected. Standard Skill judging is based on the point value of the skills and quality of their execution, not the ‘show.’ In Freestyle, riders perform to music, with costumes, props and any kinds of unicycles. Riders are judged not only on skill, but also on how well they entertain and put on a show. There are Individual, Pair, and Group Freestyle events.
+
+
+'''5.2 Age Groups'''
+
+
+'''Note: '''Age groups may be diﬀerent for diﬀerent types of event. The minimum allowable''' '''age groups are listed for each event. Convention hosts are free to add more age groups. Age group is determined by the rider’s age on the first day of the convention. Junior Expert is open to all riders 0-14. Expert is open to riders of any age, including 0-14. Riders must state the age group in which they are entering for each artistic event in which they participate.
+
+
+'''Example: '''Riders who enter Individual Freestyle as Experts can enter Pairs in their''' '''age group if they wish. Riders are divided male/female in Standard Skill and Individual Freestyle, but not in Pairs or Group.
+
+
+'''5.2.1 Riders Must Be Ready'''
+
+
+Riders who are not ready at their scheduled performance time may or may not be allowed to perform after the last competitor in their age group. The Chief Judge will remember to consider language barriers, and that riders may be engaged in convention work to slow them down. Except for Standard Skill, a rider may not perform before a diﬀerent set of judges than those that judged the rest of their age group.
+
+
+'''5.3 Safety Gear'''
+
+
+No safety gear is needed.605a Freestyle & Standard Skill Overview
+
+
+'''5.4 Performance Set-Up'''
+
+
+Competitors are allowed a maximum of two minutes to set up their unicycles and props in the performing area. Competitors who take too long risk being disqualified. An extension of the set-up time can be given only by the Chief Judge and must be requested in advance. Competitors must show a legitimate need when requesting more time, such as numerous props or complicated special eﬀects.
+
+
+'''5.5 Interruption Of Judging'''
+
+
+An interruption of judging can result from material damage, injury or sudden illness of a competitor, or interference with a competitor by a person or object. If this happens, the Chief Judge determines the amount of time left and whether any damage may be the fault of the competitor. Re-admittance into competition must happen within the regulatory competition time. If a routine is continued and the competitor was not at fault for the interruption, all devaluations coming forth from the interruption will be withdrawn.
+
+
+'''5.6 Music'''
+
+
+In Freestyle events, music is included in the judging and competitors should use it. In Standard Skill music is not judged. But background music will be provided during all Standard Skill routines, or competitors may provide their own. Competitors may also, at their request, have no music played. It is recommended to have one or more backup copies of all music in case of loss or damage. For recordable disks, competitors are also recommended to test their music on multiple players to make sure it will work at competition time.
+
+
+'''5.6.1 Media Types'''
+
+
+The host is required to have the capability of playing recordable CDs. Other media types may also be supported, at the host’s discretion. The Artistic Director is responsible for announcing what media types will be supported, and making sure the necessary equipment is provided.
+
+
+'''5.6.2 Music Preparation'''
+
+
+Competitors must provide their music in a type that is supported, and has been an-nounced by the Artistic Director. All music must be clearly labeled with the competitor name(s), age group, event type (such as Pairs), and if needed, the track number. When-ever possible, competition music should be the first track on the CD. The DJ (music615a Freestyle & Standard Skill Overview
+
+
+operator) is not responsible for any errors resulting from unsupported types or mislabeled tracks.
+
+
+'''5.6.3 Music Volume'''
+
+
+Volume level is controlled by the DJ, at instructions from the Chief Judge. The base volume for Freestyle music should be loud enough to sound clear, and be heard by all. For Standard Skill, volume level should not be loud enough to interfere with judge communication, but otherwise similar to the level for Freestyle. Some competitors’ music may start with especially loud or quiet sections, and the DJ should be advised of these so volume levels do not get compensated in the wrong direction. Some competitors may request that their music be played at lower levels. These requests can be made directly to the DJ. Requests for higher volumes must be approved by the Chief Judge, who has the option of passing this responsibility to the DJ.
+
+
+'''5.6.4 Special Music Instructions'''
+
+
+Some competitors may have special music instructions, such as stopping or starting the music at a visual cue, changing volume level during the performance, etc. The DJ is not responsible for errors carrying out these instructions. For best results, the competitor should supply a person to coach the DJ during the performance, so there are no mistakes. If the DJ receives instructions that sound unusual, the Chief Judge should be consulted for approval.
+
+
+'''5.7 Announcing Of Results'''
+
+
+Final results will be continuously announced and/or posted for public view. Results Sheets will be posted after each age category of an event. The protest period begins at this point.
+
+
+'''5.8 Protests'''
+
+
+Must be filed in writing, within 15 minutes from the posting of event results. Protest against judges’ scores is not permissible. Protest is only possible against calculation mistakes or other mistakes not connected to the scoring. The Chief Judge must resolve all protests within 30 minutes from receipt of the written form.625a Freestyle & Standard Skill Overview
+
+
+'''5.9 Freestyle Judging Panel'''
+
+
+There are five (or more) judges each of Technical and Presentation for Age Group com-petitions; five (or more) judges each of Technical and Presentation for Jr. Expert and Expert competitions (including Group). All judges must attend a workshop provided as part of the convention schedule before the start of the Freestyle competitions. Excep-tions to workshop attendance are granted by the Chief Judge if judging rules have not changed since the previous judging experience and the judge has high Accuracy Scores. Unless otherwise noted, judges at a Unicon must either speak English or have translation assistance for the specified language while judging. Judges at other unicycle conventions should speak the dominant language of that convention or have translation assistance.
+
+
+Judges’ names must be provided to the Chief Judge (via email, FAX, or postal mail) by at least one month prior to the start of the unicycle convention and include the number of freestyle conventions where they have been a competitor, judge, or simply in the audience. See section 5.9.8 for description of which teams/countries are required to provide judges. Judges must be at least 15 years of age at the start of the event. Judges are recommended to be a current freestyle competitor, a former freestyle competitor, an active coach of freestyle routines, a proven judge at prior competitions, or an avid spectator who has observed many freestyle routines. Details about the Standard Skill judging panel are covered in section 5.38.
+
+
+'''5.9.1 Selecting Judges'''
+
+
+A person should not judge an event if he or she is:
+
+* A parent, child or sibling of a rider competing in the event. 
+
+* An individual or team coach, manager, trainer, colleague who is member of the same club specified in the registration form, colleague’s family etc. of a rider competing in the event. 
+
+* More than one judge from the same family judging the same event at the same time. 
+
+If the judging pool is too limited by the above criteria, restrictions can be eliminated starting from the bottom of the list and working upward as necessary only until enough judges are available. If there are some candidates who have the same level of restrictions and judging score, their agreement about publishing the results need to be considered. The eliminations must be agreed upon by the Chief Judge and Artistic Director, or next-highest ranking artistic oﬃcial if the Chief Judge and Artistic Director are the same person.
+
+
+'''5.9.2 Assignment Of Age Group Judges'''
+
+
+Judges will be chosen from the list of judges as provided in section 5.9.8. Judges who are competing in the event just before or just after the current category are strongly635a Freestyle & Standard Skill Overview
+
+
+suggested to be eliminated from the list. Judges will also be eliminated from the list for the current category as described in section 5.9.5. The final selection of judges will be chosen based on their accuracy scores from the remaining list.
+
+
+'''5.9.3 Assignment Of Expert (And Junior Expert) Judges'''
+
+
+Assignments for Expert and Jr. Expert judges will be made by the Chief Judge using the most qualified of all judges available. Qualifications are determined in the following order of importance:
+
+
+* Highest judging accuracy scores obtained while judging age group (age groups judges must have a minimum of five entrants) or other Jr. Expert and Expert events. 
+
+* Greatest amount of Jr. Expert and Expert judging experience. 
+
+* Greatest amount of international judging experience. 
+
+* Greatest number of Freestyle competition experienced (viewed, judged, or as a competitor). 
+
+Judges who are competing in the event just before or just after the current category are eliminated from the list. Judges will also be eliminated from the list for the current category as described in section 5.9.1. Judges will also be eliminated from the list if they exhibit Judging weaknesses during their Age Group judging as described in Section 5.9.5. At Unicons, if more than five judges each of Technical and Presentation remain, judges who have not judged at a previous Unicon will be removed from the list. If there are still more than five each then the final list of judges for the category will be chosen by accuracy scores as defined in section 5.9.7.
+
+
+'''5.9.4 Judging Panel May Not Change'''
+
+
+The individual members of the judging panel must remain the same for entire age groups; for example one judge may not be replaced by another except between age groups. In the event of a medical or other emergency, this rule can be waived by the Chief Judge.
+
+
+'''5.9.5 Rating Judge Performance'''
+
+
+Judges are rated by comparing their scores to those of other judges at previous compe-titions. Characteristics of Judging Weaknesses
+
+
+* '''Excessive Ties: '''A judge should be able to diﬀerentiate between competitors.''' '''Though tying is most definitely acceptable, excessive use of tying defeats the pur-pose of judging. 
+
+* '''Group Bias: '''If a judge places members of a certain group or nation significantly''' '''diﬀerent from the other judges. This includes a judge placing members significantly higher or significantly lower (a judge may be harsher on his or her own group members) than the other judges. 
+
+645a Freestyle & Standard Skill Overview
+
+
+* '''Inconsistent Placing: '''If a judge places a large number of riders significantly''' '''diﬀerent from the average of the other judges. 
+
+'''5.9.6 Re-Instating Judges'''
+
+
+If a judge has been labeled as having a Judging Weakness, they may have a chance to be re-instated on the list by:
+
+
+* Discuss with the Chief Judge the scores that were Tied, Biased, or Inconsistent. 
+
+* Practice judge on at least two categories with at least 4 competitors. 
+
+If the practice judging shows no further examples of Judging Weakness, they may be reinstated on approval by the Chief Judge and Artistic Director. If the Chief Judge and Artistic Director are the same person, then the next highest-ranking oﬃcial must agree to the reinstatement.
+
+
+'''5.9.7 Calculating Accuracy Scores'''
+
+
+The Chief judge should decide to replace a judge if he/she shows signs of weakness. To find the right decision, the chief judge may use heuristics, statistical analytics, etc. as indicators.
+
+
+'''5.9.8 Nominating Freestyle Judges'''
+
+
+Parties (Countries/Clubs) that participate at competitions must nominate judges in relation to the number of Freestyle participants they send (see table below). After registration finishes, the chief judge will send a request to all parties. The request con-tains the compiled number of minimum judges per party and a question to nominate the candidates. Judge nominations include the experience of the judges (such as previ-ous competitions, how long he/she has been judging, agegroup/expert judging or other relevant qualifications such as educations).
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Number of Participants per Party'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Minimum Number of Judges per Party'''
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| ''<''5
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| 0
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 5-10
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| 2
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 11-20
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| 3
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 21-30
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| 4
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| ''>''30
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| 5
+
+|}
+655a Freestyle & Standard Skill Overview
+
+
+'''5.9.9 Not Providing Judges'''
+
+
+At Competitions, parties that are unable to provide their required number of judges (either Group or Individual/Pairs) may have their competitors removed from that com-petition. Exceptions will be granted on a special basis with a letter to the Chief Judge, Artistic Director, and Convention Director. '''Note:''' A party that isn’t able to nomi-nate their minimum judges can ask a party that has more than the required number of minimum judges to nominate their additional judges as their own.
+
+
+'''5.9.10 Judges Workshop'''
+
+
+The hosts of the convention must provide for a judge’s workshop at least 24 hours prior to the start of the Freestyle competition. A minimum of 3 hours must be set aside, in a classroom or similar environment. If possible, it is strongly recommended to have more than one workshop to accommodate schedules. Variations on this can be approved by the Chief Judge. Workshop schedule(s) must be announced to all judges at least three weeks prior to the start of the competition.
+
+
+Judges should have read the rules prior to the start of the workshop. The workshop will include a practice judging session. Each judge will be required to sign a statement indicating they have read the rules, attended the workshop, agree to follow the rules, and will accept being removed from the list of available judges if their judging accuracy scores show Judging Weaknesses.
+
+
+'''5.10 Scoring'''
+
+
+In all events except Standard Skill, the scores of each judge are transferred into placing points, which represent the ranking of each competitor by that judge. The highest scoring competitor gets 1 placing point, the next one gets 2, and so on.
+
+
+'''Note: '''The ranking number, or highest placing point available for a competitor depends''' '''on the number of entries in that category. If two or more competitors have the same score, they are awarded equal portions of the total number of placing points available for the places they occupy in the ranking.
+
+
+'''Example: '''Seven competitors. Four of them tie for 2nd place. 7th place gets 7 points,''' '''6th place gets 6 points, and 1st place gets 1 point. For the other four competitors, add up the other placing points numbers: 2 + 3 + 4 + 5 = 14. Divide this by the number of competitors (4) to get 3.5 placing points each.665a Freestyle & Standard Skill Overview
+
+
+'''5.10.1 Removing The High And Low'''
+
+
+After determining placing points as above, discard the highest and lowest placing score for each rider. If Rider A has scores of 1,2,1,3,2, take out one of the ones, and the three. Then Rider A has 1,2,2, for a total of 5. If Rider B has scores of 2,2,2,2,2, he will end up with 2,2,2, a total of 6. The winner is the competitor with the lowest total placing points score after the high and low have been removed.
+
+
+'''5.10.2 Ties'''
+
+
+If more than one competitor has the same placing score after the above process, those riders will be ranked based on their placing scores for Technical. The scoring process must be repeated using only the Technical scores for the tied riders to determine this rank. High and low placing scores are again removed in the process. If competitors’ Technical ranking comes out equal, all competitors with the same score are awarded the same place.
+
+
+'''5.11 World Champions'''
+
+
+Winners in the Expert category at of each event at Unicon are the '''World Champions'''. In the individual events, separate titles are awarded for male and female. Winners in the Jr. Expert category at Unicon are the '''Junior World Champions'''.67'''5b Freestyle Rules'''
+
+
+'''5.12 Individual Freestyle Overview'''
+
+
+'''5.12.1 Minimum Age Groups'''
+
+
+0-14, 15-UP, Expert. The decision to enter as Expert or Jr. Expert is optional, but must be stated in advance.
+
+
+'''5.12.2 Time Limits'''
+
+
+2 minutes for riders 0-14 (except Jr. Expert), 3 minutes for all other age groups (except Expert). Jr. Expert has a maximum of 3 minutes and Expert has a maximum of 4 minutes.
+
+
+'''5.12.3 Unicycles'''
+
+
+Any type and any number.
+
+
+'''5.12.4 Music and Costume'''
+
+
+All are judged, and must be considered in the performance.
+
+
+'''5.12.5 Props and Decorations'''
+
+
+'''Props '''are all items which are used by the rider in his/her performance and require a''' '''technical handling by the rider (for example typical objects like clubs, ribbons, hoop, etc.). These items can be used to do a unicycling trick, like rope skipping with the unicycle. However, they can also be employed to show a non-unicycling skill which supports and enhances the choreography, like the elaborate use of a hat. Props have to be presented by the rider. It is not mandatory to include props in the performance. If none are used, the score will not be lower.
+
+
+'''Decoration: '''In contrast to props, decoration is used to present the rider or clarify''' '''the theme of the performance. Decoration does not require a technical handling by the rider. For example other persons in costumes and background images. Decoration is no personal contribution of the rider and therefore eﬀects of the Decorations should not685b Freestyle Rules
+
+
+be judged. On the contrary, Decorations can also be judged negatively if it distracts from the rider’s performance. For Junior Expert and Expert categories at Unicon, it is forbidden to use decorations (including people) that are too large, which the competitor cannot carry and/or put on by oneself.
+
+
+For Props and Decoration neither fire nor sharp objects (such as juggling knives) are allowed.
+
+
+'''5.12.6 Judging Method'''
+
+
+Riders’ scores are divided into two parts called Technical and Presentation, each receiving 50% of the score. Read the Freestyle Judging section to learn more.
+
+
+'''5.12.7 Maximum Number of Competitors for Jr. Expert and Expert'''
+
+
+'''Non-Unicon: '''Organizers of non-Unicon events can choose to limit the number of com-petitors using the guidelines below or have no limit.
+
+
+'''Unicon: '''Each country can submit a maximum of three individuals in each category to''' '''compete at Unicon in the Individual Freestyle events (three in Jr. Expert Male, three in Jr. Expert Female, three in Expert Male, three in Expert Female). If a country has placed 1st, 2nd, or 3rd in Individual Freestyle at the previous Unicon, they can submit one additional competitor for each placing in that category. For example, if Country-A wins first place in Expert Male at the previous Unicon, they may submit up to four individuals for Expert Male at the current Unicon. If Country-B wins second and third place in Jr. Expert Female at the previous Unicon, they may submit up to five individuals in Jr. Expert Female at the current Unicon.
+
+
+'''5.12.8 Method for Limiting the Competitors at Unicon'''
+
+
+A country that wishes to submit more than their allocated number of individuals should select individuals by their own way. Any type of competition using the IUF judging methods to determine their competitors is recommended. If a country is unable to hold a competition, a country can choose individuals by their own rating method. For example, if a country has placed 1st, 2nd or 3rd in Individual Freestyle at the previous Unicon, it can give these individuals a higher rating, because they brought additional number of individuals to a country. If a country did not place in the top three, it can give only the highest placing individual a higher rating. It is strongly recommended to complete the selection at least three months prior to the start of the Unicon. If a country cannot select by then, the method and schedule of the selection must be communicated to the Chief Judge and Artistic Director at least three months prior to the start of the Unicon.695b Freestyle Rules
+
+
+'''5.13 Pairs Freestyle Overview'''
+
+
+'''5.13.1 Minimum Age Groups'''
+
+
+Age group (all ages), Expert. Each rider may enter only once. The age group of the older rider is the age group for the pair. Expert is treated as the “oldest” age group, followed by Jr. Expert, and then all other age groups. The decision to enter as Expert or Jr. Expert (if used) is optional, but must be stated in advance.
+
+
+'''5.13.2 Time Limits'''
+
+
+Same as Individual Freestyle.
+
+
+'''5.13.3 Unicycles'''
+
+
+Any type and any number.
+
+
+'''5.13.4 Music and Costume'''
+
+
+Same as Individual Freestyle.
+
+
+'''5.13.5 Props and Decorations'''
+
+
+Same as Individual Freestyle.
+
+
+'''5.13.6 Judging Method'''
+
+
+Same as Individual Freestyle, 50% for Technical, and 50% for Presentation. In Pairs, there is extra emphasis on teamwork; two person skills, etc. (see Judging Criteria).
+
+
+'''5.13.7 Maximum Number of Competitors for Jr. Expert and Expert'''
+
+
+'''Non-Unicon: '''Organizers of non-Unicon events can choose to limit the number of com-petitors using the guidelines below or have no limit.
+
+
+'''Unicon: '''Each country can submit a maximum of three pairs in each category to compete''' '''at Unicon in the Pairs Freestyle events (three in Jr Expert Pairs, three in Expert Pairs). If a country has placed 1st, 2nd, or 3rd in Pairs Freestyle at the previous Unicon, they can submit one additional competitor for each placing in that category. For example, if Country-A wins first place in Expert Pairs at the previous Unicon, they may submit up to four Pairs for Expert Pairs at the current Unicon. If Country-B wins second and third place in Jr Expert Pairs at the previous Unicon, they may submit up to five pairs in Jr705b Freestyle Rules
+
+
+Expert Pairs at the current Unicon. If a pairs team is submitted consisting of members from two countries, that team must choose one of their two countries to represent.
+
+
+'''5.13.8 Method for Limiting the Competitors at Unicon'''
+
+
+A country that wishes to submit more than their allocated number of pairs should select competitors by their own way. Any type of competition using the IUF judging methods to determine their competitors is recommended. If a country is unable to hold a competition, a country can choose pairs by their own rating method. For example, if a country has placed 1st, 2nd, or 3rd in Pairs Freestyle at the previous Unicon, it can give these pairs a higher rating if BOTH partners from the previous Unicon still be pairs, because they brought additional number of pairs to a country. If a country did not place in the top three, it can give only the highest placing pairs a higher rating. It is strongly recommended to complete the selection at least three months prior to the start of the Unicon. If a country cannot select by then, the method and schedule of the selection must be communicated to the Chief Judge and Artistic Director at least three months prior to the start of the Unicon.
+
+
+'''5.14 Group Freestyle Overview'''
+
+
+Group freestyle is divided in Big Groups and Small Groups Each rider may enter each category (Small Group, Big Group) only once. For example: a rider can be in one small group routine and one large group routine but not two small group routines (without permission).
+
+
+A rider may appear in a second Group Freestyle performance (Small Group, Big Group) with permission of the Chief Judge, to replace a rider due to illness, injury or other mishap.
+
+
+'''5.14.1 Small Group'''
+
+
+Minimum of three riders, maximum of eight.
+
+
+'''5.14.2 Big Group'''
+
+
+Minimum of nine riders, no maximum number of riders.
+
+
+'''5.14.3 Minimum Age Groups'''
+
+
+None.715b Freestyle Rules
+
+
+'''5.14.4 Time Limit'''
+
+
+Six minutes.
+
+
+'''5.14.5 Unicycles'''
+
+
+Any type and any number.
+
+
+'''5.14.6 Music and Costume'''
+
+
+Same as Individual Freestyle.
+
+
+'''5.14.7 Props and Decoration'''
+
+
+Same as Individual Freestyle.
+
+
+'''5.14.8 Juding Method'''
+
+
+Same as Individual Freestyle, but with additional emphasis on teamwork and multiple person skills, such as formation riding. Extra consideration will be given to account for widely diﬀerent group sizes, relative skill levels, and relative ages of riders.
+
+
+'''5.14.9 Maximum Number of Competitors for Jr. Expert and Expert'''
+
+
+'''Non-Unicon: '''Organizers of non-Unicon events can choose to limit the number of''' '''small/big groups using the guidelines below or have no limit.
+
+
+'''Unicon: '''Each country can submit a maximum of three groups to compete at Unicon in''' '''each of the following categories: Expert Small Group, Jr. Expert Small Group, Expert Big Group, and Jr. Expert Big Group.
+
+
+'''5.14.10 Method for Limiting the Competitors at Unicon'''
+
+
+A country that wishes to submit more than their allocated number of groups should select groups by their own way. Any type of competition using the IUF judging methods to determine their groups is recommended. If a country is unable to hold a competition, a country can choose groups by their own rating method. For example, if a country has placed 1st, 2nd, or 3rd in Group Freestyle at the previous Unicon, it can give these groups a higher rating, because they brought additional number of groups to a country. If a country did not place in the top three, it can give only the highest placing groups a higher rating. Not all members from the previous Unicon are required to be members of a new group. It is strongly recommended to complete the selection at least three725b Freestyle Rules
+
+
+months prior to the start of the Unicon. If a country cannot select by then, the method and schedule of the selection must be communicated to the Chief Judge and Artistic Director at least three months prior to the start of the Unicon.
+
+
+'''5.15 Deadline For Signing Up'''
+
+
+These events have a deadline for entry, which must be specified in the registration form. If not specified in the registration form, the deadline is one month before the oﬃcial convention start date. A maximum of ten Individuals, ten Pairs routines, and two groups will be allowed to be added after this time to account for diﬃculties in travel planning or other valid reasons that are communicated about in advance. These will be added in the order of their request to the Chief Judge and Convention Director via email or fax. Participants who attempt to sign up less than 36 hours prior to the beginning of the specified competition will not be allowed to enter. Changing Pairs partners is allowed up to 36 hours prior to the actual competition as long as the category does not change. Adding or subtracting the members of a group routine is allowed up to 36 hours prior to the start of that competition.
+
+
+'''5.16 Size Of Performing Areas'''
+
+
+The minimum size for Freestyle event must be 28m x 15m. Hosts shall give additional space to riders. Hosts must publicize the dimensions of the available performing area as far in advance of the competition as possible, and organizers of international champi-onships at least three months prior to the event.
+
+
+'''5.17 Order Of Performance'''
+
+
+Performance order for Jr. Expert and Expert in Pairs/Individual/Group freestyle are defined by an open drawing without a computer. The drawing/selection should be done publicly and transparently, at a time that is pre-announced, so people can witness it. The method to determine performance order for age groups is completely up to the Artistic Director.
+
+
+'''5.18 Start Of Performance'''
+
+
+'''5.18.1 Freestyle Events'''
+
+
+The judging, the stopwatch, and the ‘performance’ all start at the same time. The Timer starts the watch at the beginning of the music, or at a signal from competitors, whichever comes first. The signal can be a nod, wave, bow, verbal cue (“Start!”) or any clearly understandable means. An acoustic signal (such as a whistle) will indicate that the735b Freestyle Rules
+
+
+timing and judging have started. Any non-unicycling activities such as dancing, posing, acrobatics, etc., must be included within the time limit of the routine to be judged. In all Freestyle routines, an acoustic signal will indicate when there are 30 seconds left. In all artistic events, two acoustic signals or a diﬀerent signal will indicate the end of the riding time and end of the judging.
+
+
+'''5.19 End Of Performance'''
+
+
+The performance ends at a signal from the rider, such as a bow or “Thank you,” an obvious endpoint, or at the end of the time limit. Nothing that occurs after the time limit may aﬀect judging scores.
+
+
+'''5.19.1 Freestyle Events'''
+
+
+An acoustic signal will indicate the end of the time limit. Any figures or performing that are done after the end of the time limit will not be judged Performing past the time limit will reduce the rider’s score. All time limits are maximums. Riders need not fill the entire time, but a routine that is very short may suﬀer in points over a routine with more content. However, a routine that is boring, repetitive or ‘padded’ may lose points for being too long. The rider must decide what makes the best performance.
+
+
+'''5.19.2 Performance Time Announcement'''
+
+
+When a Freestyle performance is finished, the timer will report the actual length of the performance. The time can be either displayed visually or announced publicly. A vi-sual display must be visible to the judges and audience, such as on an electronic timing board or written on a whiteboard. If the routine ran overtime, only the maximum time need be displayed (example: 4:00 for Experts), or nothing at all. For public announce-ments by voice, the announcement should happen after the performer has exited, or clearly finished performing. In other words it is preferred to wait if the performer has an artistic exit, even though it cannot be judged. Then the announcement should be made, in a form similar to “The performance time was two minutes, forty two seconds.” This announcement must be made without delay, as it is a factor in the judging of the performer. If the performance ran overtime, no voice announcement is needed.
+
+
+'''5.20 Rider’s No-Signal Option'''
+
+
+'''5.20.1 Freestyle Events'''
+
+
+A rider may have a well-planned routine to music that he or she knows is under the time limit, and does not wish for the acoustic signals to detract from his or her performance. When riders sign up with the Rider Liaison they can request “No acoustic signals.” This745b Freestyle Rules
+
+
+will eliminate the ‘Start’ signal, and the 30-second warning. The Timer will still keep the time, and if the rider exceeds the time limit, the Timer will make the ‘double acoustic signal’ to indicate the rider has run overtime.
+
+
+'''5.21 Clean-Up'''
+
+
+In unicycling, a clean, dry riding surface is essential. After a performance, the riding area must be left the way it was before the performance. Riders and their helpers must clear all props, unicycles, and debris from the performing area within two minutes. The next rider may also be setting up during this time.
+
+
+'''5.22 Messy Performing Area'''
+
+
+Riders who are thinking of using messy props in their performances must carefully con-sider the above rule. Popping balloons, dirt or powder, confetti, water, pies, etc. may take longer than two minutes to remove. Special permission must be received from the Chief Judge or Artistic Director before any such props are used. Competitors who make messes they are unable to remove may be disqualified from the event.75'''5c Freestyle Judging'''
+
+
+Judging for Individual, Pairs, and Group Freestyle is divided into two components, Tech-nical and Presentation. Qualified judges may judge only Technical, only Presentation, or both. For each component, judges give four scores from 0 to 10, or 0 to 15, high scores being better. Scores such as 2.0, 2.2, or even 2.25 are encouraged to help diﬀerentiate between riders of similar ability.
+
+
+'''5.23 Individual Freestyle - Technical Score'''
+
+
+The Technical part of the judging is broken into four parts. Four scores will be given by each judge, values ranging from 0 to 10, or from 0 to 15 as follows:
+
+* Quantity of Unicycling Skills And Transitions (0-10 points) 
+
+* Mastery And Quality of Execution (0-15 points) 
+
+* Diﬃculty And Duration (0-15 points) 
+
+'''Technical Total: '''40 points
+
+
+'''5.23.1 Quantity of Unicycling Skills and Transitions'''
+
+
+'''Quantity '''is the number of unicycling skills and transitions successfully executed. Tran-sitions, before and after the skill, should also be counted. If a dismount happens during transition but after a skill was successfully executed, only the completed skill is counted and the failed transition should not be counted. For example, if a dismount happens during standup gliding, only the transition from riding to standup is counted. If a dis-mount happens after standup gliding and during the transition from the standup gliding to riding, the previous transition into stand up and the standup gliding are counted.
+
+
+Only ‘unicycling skills’ will be counted (see definition in chapter 1d). For example, if a rider is juggling while idling, idling is counted as a unicycling skill and juggling will aﬀect the Interpretation: Props and other Presentation scores. Performing many short skills with quick transitions can increase this score, but will decrease the score as related to the Duration score.
+
+
+'''Variety: '''Diﬀerent from Variety in Standard skill, diﬀerent variations of the same type''' '''of skill are counted separately. Skills should be chosen to work with the style of the performance, but performing exactly the same skill multiple times will decrease this score.765c Freestyle Judging
+
+
+Examples:
+
+* ‘Drag seat in front’ and ‘drag seat in back’ are counted independently. 
+
+* The following variations of ‘standup gliding one foot’ will be counted diﬀerently; 
+
+'''– '''Arabesque (The free leg is extended behind the body above hip height – at''' '''least a 90 degree angle) 
+
+
+'''– '''Knee hold (one hand supporting the knee of the free leg)''' '''
+
+
+'''– '''Y-character balance (holding a straightened leg up with one hand and using''' '''other hand to form a Y shape) 
+
+
+'''– '''Catch-foot (the free leg being held in one or both hands)''' '''
+
+
+'''– '''Biellmann (the free leg grasped from behind and pulled overhead in the Biell-mann position) 
+
+
+* Face up spins are diﬀerent from normal upright spins 
+
+* Combinations of one-rotation spins/turns are diﬀerent from continuous spins 
+
+'''Originality: '''In Freestyle, new skills are less important than in Flatland. However,''' '''skills with unique variations that are completely new or with new approaches will get more points. Originality is mainly judged in Presentation (section 5.24).
+
+
+'''Scoring Guidelines for Quantity of Unicycling Skills and Transitions (Variety and Originality):'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 10
+| style="border:1pt solid #000000;padding:0cm;"| Perfect - No room to add more skills with impressive originality
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Excellent - Filled with many skills with proper pause and variations and/or
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| some originality
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 5
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Medium level - average number of skills and variations
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 2
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Lower number of skills without proper variations
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| There are no unicycling skills
+
+|}
+'''5.23.2 Mastery And Quality of Execution'''
+
+
+'''Mastery '''is the amount of control shown by the rider(s) during their execution of the''' '''skills and transitions. The body form should demonstrate good control and Mastery of the unicycle. If a rider is showing good style (section 5.24.2) during diﬃcult skills, the Mastery score should be high. Mastery of the unicycling skills is also required to perform the “additional non-unicycling skills”, such as juggling, dancing, and acrobatics.
+
+
+There are several viewpoints to check the Quality of Execution, such as Stability, Dura-tion, Speed, Synchronization, and Fluidity of Transition. These viewpoints don’t have to be evenly weighted, but required to check.
+
+
+'''Duration: '''Holding a skill for a longer amount of time and distance also indicates a''' '''higher level of mastery and diﬃculty for that skill.
+
+
+'''Stability: '''High scores should not be given if unintentional jerky body movement, or a''' '''wandering spin or pirouette is shown occasionally.775c Freestyle Judging
+
+
+'''Speed: '''High score is given when the rider controls the speed (faster or slower) of turns,''' '''spins, and transitions excellently.
+
+
+'''Synchronization: '''Being synchronized with the rhythm of the music and timing accu-racy should be judged. High scores are awarded for a routine if timing of the skills is well planned and accurate.
+
+
+'''Fluidity of Transition: '''High scores are given for transitions when the rider performs''' '''a skill straight into another skill quickly. Low scores are given for transitions if several revolutions, idles, hops (or other setup-type skill) need to be performed before performing the more diﬃcult skill - unless it is obvious that these are used to increase the overall choreography and timing of the routine.
+
+
+'''Scoring Guidelines for Mastery and Quality of Execution (Stability, Dura-tion, Speed, Synchronization, Fluidity of Transition):'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border:1pt solid #000000;padding:0cm;"| Perfect - No room to improve; never loss of control; all criteria are perfect
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost perfect - Almost all criteria are perfect without loss of control
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 11
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| High Level - Excellent Mastery and Quality but some loss of control
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Medium level - All criteria are average level
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Low Level - All criteria are lower than average
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 1
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Beginners Level – None of the criteria are followed
+
+|}
+'''5.23.3 Diﬃculty And Duration'''
+
+
+The level of Diﬃculty is taken into account for successfully executed skills including transitions. High scores are awarded for a routine packed with a number of skills all with high diﬃculty. High scores should not be given if only one or two of the skills are of a high level. Generally:
+
+* Backward skills are more diﬃcult than the same type of Forward skills. 
+
+* ‘Seat against body’ is easier than ‘Seat not touching body’. 
+
+* Faster spins/turns with smaller diameter are more diﬃcult than slower spins/turns with larger diameter. 
+
+* ‘Stand up with a hand touching the seat’ is easier than ‘stand up with neither hand touching the seat’. 
+
+* ‘Jump up from the pedals to the frame removing both feet simultaneously’ is more diﬃcult than ‘Standup with one or both feet on the frame’. 
+
+If a rider is juggling while idling, for example, the diﬃculty of idling does not carry the same diﬃculty as idling without juggling. The same applies for dancing, and acrobat-ics.
+
+
+'''Duration: '''Holding a skill for a longer amount of time and distance also indicates a''' '''higher level of mastery and diﬃculty for that skill.785c Freestyle Judging
+
+
+'''Scoring Guidelines for Diﬃculty and Duration:'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border:1pt solid #000000;padding:0cm;"| All very diﬃcult skills with long duration
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost all skills are at high diﬃculty with enough duration
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 10
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Many skills at high diﬃculty but some skills with short durations
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally average or higher diﬃculty but some skills with short duration
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 6
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally lower than average or higher diﬃculty but many skills with short
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| duration
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Only one or two skills at high level and/or many skills with short duration
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 2
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| O.K. and skills done reasonably long without compromising flow of routine
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Looks like will fall constantly; much repetition of skills; low diﬃculty when
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| averaged for whole routine.
+
+|}
+'''5.24 Individual Freestyle – Presentation Score'''
+
+
+The Presentation part of the judging will be broken into four parts. Four scores will be given by each judge, values ranging from 0 to 10 or from 0 to 15 as follows:
+
+* Mistakes: Dismounts (0-10 points) 
+
+* Choreography And Style (0-15 points) 
+
+* Showmanship And Originality (0-15 points) 
+
+* Interpretation: (0-10 points) 
+
+'''Presentation Total: 50 points'''
+
+
+'''5.24.1 Mistakes: Dismounts'''
+
+
+Low scores are given for routines with more than 8 major dismounts, therefore interrupt-ing the flow of the routine. Medium scores are given for a routine that has approximately 3 major dismounts and a few minor dismounts. High scores are given for a routine with no major dismounts, and few or no minor dismounts. Judges need to be able to diﬀer-entiate between a planned dismount and an unplanned dismount.
+
+
+'''Major '''dismounts are when the unicycle falls and/or a hand or any body part other than''' '''the rider’s foot or feet touch the floor. Major dismounts are also when the choreography of a rider’s routine is clearly aﬀected.
+
+
+'''Minor '''dismounts are when the unicycle does not fall, only the rider’s foot or feet touch''' '''down and the choreography of a rider’s routine is not aﬀected. A minor dismount may also be counted when Judges cannot diﬀerentiate between a planned dismount and an unplanned dismount.
+
+
+'''Score can be generated using the following calculations:'''
+
+
+Score = 10 −1''.''0 · (number of major dismount(s)) −0''.''5 · (number of minor dismount(s))795c Freestyle Judging
+
+
+'''5.24.2 Choreography And Style'''
+
+
+There are four parts in this section; Composition, Choreography, Style and Synchroniza-tion. Each part does not need to be evenly weighted, but judges are required to consider each part.
+
+
+'''Composition: '''The routine is assembled to use the whole Performing area eﬀectively;''' '''line and circle skills are varied in their direction and length; the timing of the routine is considered to maximize the allotted time; the skills are ordered to provide variety; rider does not simply ride from one point to another just to start the next skill. High points given for routines that have a structure: a distinctive beginning, middle, and end.
+
+
+'''Choreography '''is designed sequences of movements with arms, head, free leg and other''' '''possible body in which motion, form, or both are specified. Any type of movements may performed, not only dance elements from ballet, jazz, modern, tap, but also mime, acrobatics, etc. The quantity of movements is measured in this section.
+
+
+'''Style: '''The body form is used to express the whole mood or theme of the piece by po-sitioning and movements of the body during the routine. Routines that show deliberate body form during the whole routine, especially during more diﬃcult skills, should score higher than one with style and poses only during stable riding positions. Judges look for deliberate movements over uncoordinated movements made to retain balance. For example, if a graceful balletic routine, style should be graceful and flowing; if a techni-cal/street theme, then the style should match that theme. Other non-unicycling skills such as dance, mime, comedy, juggling, acrobatics, playing music, etc., are considered with this score. These skills should add to the theme of the routine.
+
+
+'''Synchronization '''with rhythm of the music and timing accuracy of body movements''' '''should be judged. High scores awarded for a routine if the timing of all movement is well planed and accurate. Quality of movement is measured in the Style and Synchronization elements.
+
+
+'''Scoring Guidelines – for Choreography and Style (Composition, Choreogra-phy, Style, Synchronization):'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Score'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Samples of observed riding'''
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| All parts are utilized eﬀectively. Routine is assembled to use the whole
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| space eﬀectively; the skills are ordered to provide variety; an obvious struc-
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| ture exists in regard to the whole routine; the body form is used to express
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| the whole mood or theme of the piece, rather than for balance.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost perfect - Almost all parts are utilized.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 11
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| High Level - Many variation for choreography, style and synchronization
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| are excellent.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Medium Level.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 6
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Some variation for choreography; style is only shown occasionally.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Low Level - Either fantastic choreography with no style; or fantastic style
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| without any choreography.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| All lines or all circles with stationary skills done in same spot; body form
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| does not add to performance; other non-unicycling skills.
+
+|}
+805c Freestyle Judging
+
+
+'''5.24.3 Showmanship And Originality'''
+
+
+There are four parts for this score, Expressiveness, Showmanship, Originality and Total Impression. These parts do not need to be weighted evenly, but each must be consid-ered.
+
+
+'''Expressiveness: '''A good Freestyle performance is prepared with an audience in mind.''' '''Judges should look for the rider’s ability to express the theme of the performance, and to capture the audience by emotions and/or entertainment.
+
+
+'''Showmanship: '''The rider should display his or her confidence in front of the audience''' '''with eye contact, facial expressions, and incorporating the audience into the routine. Poor showmanship is displayed when the rider’s eyes are down, face filled with concen-tration rather than a smile, curses muttered under the breath at mistakes, and lack of awareness of or connection with the audience.
+
+
+'''Originality: '''The judges are looking for inventiveness in the act as a whole. High scores''' '''are given for a unique routine, or one that contains unique elements. High points are also awarded for a routine that contributes to further development of Freestyle by a newly applied approach.
+
+
+'''Total Impression: '''High scores are awarded for an attractive routine that appeals to''' '''both the judge and the audience in all aspects of the routine, from start to finish.
+
+
+'''Scoring Guidelines for Showmanship and Originality (Expressiveness, Show-manship, Originality, Total Impression):'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Score'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Samples of observed riding'''
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Perfect - All parts are utilized and the audience is connected and enthusi-
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| astic.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost perfect - Almost all parts are utilized.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 11
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| High Level - Many parts are excellent.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Medium Level.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 6
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Some parts are not excellent.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Low Level – rider fails to satisfy a majority of the parts.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| All lines or all circles with stationary skills done in same spot; body form
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| does not add to performance; other non-unicycling skills.
+
+|}
+'''5.24.4 Interpretation: Costumes, Music and Props'''
+
+
+How costume, music, props (if used) and style all work together to present a theme to the whole routine. If one part is removed, the whole performance would suﬀer. The elements should be consistent and this section rates how well the whole routine is put together.
+
+
+'''Costume: '''A costume is chosen to enhance the routine and does not interfere with''' '''skills. If costume is chosen that have the potential to impede riding but the competitor815c Freestyle Judging
+
+
+successfully adapts the costume to add to the whole performance, they should not be penalized, but instead should be given extra points for Style.
+
+
+'''Music: '''Judges are looking for music that is selected to put whole routine together.''' '''Skills are chosen carefully to match the feeling and tempo of the music. Music that is simply background or not integral to the routine is considered a poor choice. A high scoring routine is where the rider uses the sound, beat, theme, or changes in the music as integral parts of the routine. If music is chosen that is too long for the allowed time, the competitor should be penalized here.
+
+
+'''Props: '''A unicycle, when used for anything but a unicycling skill (handstand on the''' '''unicycle while it is lying down, hopping standing on the frame with wheel and seat on the floor) is considered a prop. Other props can be removable parts of the costume (hats, clothing, etc.), items placed to set a scene, a person. Note that it says “Use of.” This score is not awarded for the props, but for the eﬀect of such props on the performance. The judges are looking not for the props themselves, but how they are used. It is not mandatory to include props in the performance. If none are used, the score will not be lower. In contrast to props decoration should not be judged, props and decorations are judged according to their definitions in section 5.12.5.
+
+
+'''Style: '''The body form is used to express the whole mood or theme of the piece by po-sitioning and movements of the body during the routine. Routines that show deliberate body form during the whole routine, especially during more diﬃcult skills, should score higher than one with style and poses only during stable riding positions. Judges look for deliberate movements over uncoordinated movements made to retain balance. For example, if a graceful balletic routine, style should be graceful and flowing; if a techni-cal/street theme, then the style should match that theme. Other non-unicycling skills such as dance, mime, comedy, juggling, acrobatics, playing music, etc., are considered with this score. These skills should add to the theme of the routine.
+
+
+'''Scoring Guidelines for Interpretation (Costume, Music, Props if used, Style):'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Score'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Samples of observed riding'''
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 10
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Routine is complete – cutting out one part will ruin the whole performance.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Looks good, but room for improvement.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 6
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| If props used, three of the four elements (costume, music, props, style) work-
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| ing together to present a theme but one obviously missing or mismatched.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| If props not used, only two of the three elements working together.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 2
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Part of routine looks integrated, but several elements are not working (mu-
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| sic not matching, costume choice interferes, props clumsy, or skills don’t
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| match the music).
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Routine looks thrown together, with no thought of whole performance.
+
+|}
+'''5.25 Pairs Freestyle – Additional Judging Criteria'''
+
+
+Pairs judges must consider the performance of two unicyclists together. All judging criteria and the scoring from Individual Freestyle are used, but the additional factors825c Freestyle Judging
+
+
+below must also be considered. The only exceptions are the scoring guidelines for Pairs Freestyle Diﬃculty and Duration as mentioned below in section 5.25.3.
+
+
+'''5.25.1 Pairs Freestyle: Quantity of Unicycling Skills and Transitions'''
+
+
+Number of skills should be counted for each rider separately. If a rider is not riding unicycle and performing nonunicycling skills while the other rider doing unicycling skills, only one skill for a rider is counted.
+
+
+'''Pairs Vs. Doubles: '''‘Doubles’ refers to two riders on one unicycle. In case of Doubles,''' '''the Quantity is counted as same as the skill by a single rider.
+
+
+'''5.25.2 Pairs Freestyle: Mastery and Quality of Execution'''
+
+
+'''Synchronization: '''Timing-synchronization with each other should be judged in Pairs''' '''routines. High scores awarded for a routine if timing of every skills are well planed and accurate. Even though riders do not do the same skill/movement at the same timing intentionally in pairs, timing accuracy of each movement can be measured as synchronization with rhythm of the music, in a manner similar to individual routines. The same rules and chart from Individual Freestyle is to be used for Pairs Freestyle.
+
+
+'''5.25.3 Pairs Freestyle: Diﬃculty and Duration'''
+
+
+The Diﬃculty level of a multiple person act is determined by the overall level of diﬃculty displayed by the pair, not by the diﬃculty of feats presented by a single rider. If one rider’s skill level is a great deal higher than the other, judges must keep the Diﬃculty score somewhere between the levels of the two riders. Number of skills should be counted for each rider separately. If a rider is not riding unicycle and performing non-unicycling skills while the other rider doing unicycling skills, only one skill for a rider is counted. A skill in which the two riders obviously support each other will score lower than the same skill performed separately. Judges must be able to distinguish between ‘support’ and ‘artistic contact.’ Riders who are merely holding hands may not be supporting each other, but if their arms are locked, they probably are.
+
+
+'''Note: '''Some skills are more diﬃcult with riders holding hands, such as one foot riding,''' '''side-by-side.
+
+
+'''Pairs Vs. Doubles: '''‘Doubles’ refers to two riders on one unicycle. In case of Doubles,''' '''the Quantity is counted as same as the skill by a single rider. Some Pairs performers use lots of doubles moves, with lifting, strength, and the associated diﬃculty. Other Pairs acts use no doubles moves at all. How to compare them? Remember that the skill level of both riders is being judged. If the ‘top’ rider does not display much unicycling skill when he or she rides, judges must keep that in mind, and rate their average diﬃculty accordingly. If the top rider never rides, one can argue that this is not a Pairs act, and835c Freestyle Judging
+
+
+give a major points reduction. Doubles moves are diﬃcult for both persons, but must be weighed carefully against non-doubles performances.
+
+
+Duration can be increased if a rider pulls or pushes another rider with holding hands, but will decrease the score as related to Quantity (section 5.25.1).
+
+'''Scoring Guidelines for Pairs Freestyle Diﬃculty and Duration:'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Score'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Samples of observed riding'''
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| All very diﬃcult skills with long duration. Both riders have the same high
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| level of diﬃculty.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost all skills are at high diﬃculty with enough duration.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 10
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Many skills at high diﬃculty but some skills with short durations.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally on average or higher diﬃculty but some skills with short duration.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 6
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally lower on average or higher diﬃculty but many skills with short
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| duration OR one rider has a very high skill level while the second rider is
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| very low.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Only one or two skills at high level and/or many skills with short duration.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 2
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| O.K. and skills done reasonably long without compromising flow of routine.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Looks like will fall constantly; much repetition of skills; low diﬃculty when
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| averaged for whole routine.
+
+|}
+'''5.25.4 Pairs Freestyle: Choreography And Style'''
+
+
+In addition to the description for Individual Freestyle (section 5.23), judges are looking for teamwork and cooperation. Do they look like a team or are they riding separately, in their own worlds, to the same music?
+
+
+'''5.26 Group Freestyle – Additional Judging Criteria'''
+
+
+Everything for Individual and Pairs applies, including the scoring, plus these additional points. Exceptions are in the scoring detailed in sections 5.26.3 and 5.26.4. A group of several riders has many more options of what to do and how it can be presented. Riders may all be of similar skill levels, or of widely diﬀerent levels. Some groups will be much larger than others. These things all need to be considered when judging groups.
+
+
+'''5.26.1 Quantity of Unicycling Skills and Transitions'''
+
+
+Approximate number of skills may be counted for all members in total. The number of skills should be weighted by the number of unicycling riders in the group. If some riders are not on unicycles or are performing non-unicycling skills while the other riders doing unicycling skills, the count is reduced accordingly.845c Freestyle Judging
+
+
+'''5.26.2 Group Freestyle: Mastery and Quality of Execution'''
+
+
+'''Synchronization: '''Timing-synchronization with all members should be judged in Group''' '''routines. High scores awarded for a routine if timing of every skills are well planed and accurate. Even though sub-groups do not do the same skill/movement with other sub-groups at the same timing intentionally, timing accuracy of each movement can be measured as synchronization with rhythm of the music, in a manner similar to individual routines.
+
+
+'''Mastery '''is the amount of control shown by the riders during their execution of the''' '''skills. The body form should demonstrate good control and ‘mastery’ of the unicycle. Holding a skill for a longer amount of time also indicates a higher level of mastery for that skill. Performing a skill multiple times can increase the Mastery portion of the score, but will decrease the score as related to Variety and Level of Diﬃculty. If the group shows good style (section 5.24.2) during diﬃcult skills, the Mastery score should be high.
+
+
+'''5.26.3 Group Freestyle: Diﬃculty and Duration'''
+
+
+As in Pairs, judges must seek to find the average Level of Diﬃculty of what may be a widely varied group of riders. Top level skills done by only one rider cannot bring the Diﬃculty score up to top level. High scores should not be given if only one or two of the skills are of a high level even if done by all riders or with skills that are the same type but with minor variations. All riders in the routine must be used eﬀectively. This means that if one or more riders are at a beginner level, they can still ride around in circles, carry banners, be carried by other riders, etc. Riders should not be left standing on the side.
+
+
+'''Small Group Vs. Large Group: '''Some groups will be much smaller or larger than''' '''others, and judges must include this information in their decisions. Large groups may have a tendency toward formation riding and patterns, while smaller groups may focus more on diﬃcult skills. With so many possibilities, judges must compare many diﬀerent factors to get an adequate judgment. Large numbers alone should not earn a high diﬃculty score, and neither should a few diﬃcult skills performed by a small number. The judges must consider the group’s size as a part of the overall performance, including the advantages or limitations that size has on the types of skills being performed.
+
+
+'''Level of diﬃculty '''is for successfully executed skills. High scores awarded for a routine''' '''packed with a number of skills that have a high variety. Only ‘unicycling skills’ will be judged; non-unicycling skills only aﬀect Presentation scores. Dancing, juggling, and other non-unicycling skills can increase only the Presentation score, and have no influence on this score.855c Freestyle Judging
+
+
+'''Scoring Guidelines for Group Freestyle Diﬃculty and Duration:'''
+
+
+
+{| style="border-spacing:0;"
+| style="border-top:1pt solid #000000;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| '''Score'''
+| style="border:1pt solid #000000;padding:0cm;"| '''Samples of observed riding'''
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 15
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| All very diﬃcult skills with long duration. All riders have the same high
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| level of diﬃculty.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 13
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Almost all skills are at high diﬃculty with enough duration.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 10
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Many skills at high diﬃculty but some skills with short durations.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 8
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally on average or higher diﬃculty but some skills with short duration.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Not all riders have the same high level of diﬃculty.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 4
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Generally lower on average or higher diﬃculty but many skills with short
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| duration 4 Only one or two skills at high level by a fewer riders and/or
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| many skills with short duration.
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 2
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| O.K. and skills done reasonably long without compromising flow of routine.
+
+|-
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 0
+| style="border-top:none;border-bottom:none;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| Looks like will fall constantly; much repetition of skills; low diﬃculty when
+
+|-
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:none;padding:0cm;"| 
+| style="border-top:none;border-bottom:1pt solid #000000;border-left:1pt solid #000000;border-right:1pt solid #000000;padding:0cm;"| averaged for whole routine.
+
+|}
+'''5.26.4 Group Freestyle: Dismounts'''
+
+
+'''Major '''dismounts are when the unicycle falls and/or a hand, or any body part other''' '''than the rider’s foot or feet touch(es) the floor. Major dismounts are also when the Choreography of a rider’s routine is clearly aﬀected.
+
+
+'''Minor '''dismounts are when the unicycle does not fall, only the rider’s foot or feet''' '''touch(es) down and the choreography of a rider’s routine is not aﬀected. A minor dismount may also be counted when Judges cannot diﬀerentiate between a planned dismount and an unplanned dismount.
+
+
+'''Score can be generated using the following calculations:'''
+
+
+Mistake Score = 10 −0''.''5 · (number of major dismount(s)) −''.''25 · (number of minor dismount(s))
+
+
+The scores above will be applied using a calculation to adjust for the number of riders in the group. Judges need to be able to diﬀerentiate between a planned dismount and an unplanned dismount. The number of dismounts should be weighted by the number of riders in the group. The following formula is used:
+
+
+Final Dismount Score = 10·(1− mistake score/number of riders). This score cannot be lower than 0.
+
+
+'''Known Methods for Mistake and Boundary scores:'''
+
+# Each presentational judge is responsible for mistake and rider counting. 
+
+# Each presentational judge gets an additional counter seated next to him/her who counts mistakes and riders. 
+
+# Mistake Counters: 4 counters seated at the edge of the performing area. Each of them counts mistakes and riders. The final dismount score will be calculated from an average of their counts. 
+
+865c Freestyle Judging
+
+
+'''5.26.5 Group Freestyle: Choreography And Style'''
+
+
+In addition to the description for Individual Freestyle (section 5.24.2), judges are looking for teamwork and cooperation. Do all the riders know where they are supposed to be? Do they look as if they’re pulling each other around, rather than riding together? If one rider falls, do the others help him or her up? Etc.
+
+
+The judges look for movements that cover the performing area uniformly, and use all riders eﬀectively.
